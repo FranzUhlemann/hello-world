@@ -1,2 +1,3 @@
 # hello-world
-This is my sandbox repository
+## Usage
+This is my git experimental repository
